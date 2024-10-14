@@ -69,6 +69,7 @@ public class Automovil {
         return cilindraje;
     }
 
+
     public void setCilindraje(int cilindraje) {
         this.cilindraje = cilindraje;
     }
